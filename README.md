@@ -1,2 +1,4 @@
-# WithoutKnot
-Its Blender 4.0 Plugin based on 2D Bezier Curve that join the splines with 3 Variations 
+# WithoutKnot 2.0
+Its Blender 4.0 Plugin based on 3D Bezier Curve that join nearest spline in 3 Variations 
+Support All Type of Handles
+Support 3d Axis
