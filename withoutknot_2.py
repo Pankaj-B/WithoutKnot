@@ -8,7 +8,7 @@ bl_info = {
                     "3 Different Variations"
                     "Create New Point Between 2 Points, Merge 2 Points, Append Next Spline"),
     "warning": "Its tested on Max 100 Bezier Points",
-    "wiki_url": "",
+    "wiki_url": "https://github.com/Pankaj-B/WithoutKnot/wiki/Without-Knot-2.0",
     "category": "Tool",
 }
 import bpy
